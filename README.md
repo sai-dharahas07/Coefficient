@@ -67,7 +67,9 @@ You can start editing the app by modifying app/page.tsx. Changes will reflect in
 To learn more about Next.js:
 
 Next.js Documentation: https://nextjs.org/docs
+
 Learn Next.js: https://nextjs.org/learn
+
 Next.js GitHub Repository: https://github.com/vercel/next.js
 
 **Deployment**
@@ -75,23 +77,28 @@ Next.js GitHub Repository: https://github.com/vercel/next.js
 The recommended way to deploy this project is using Vercel, the creators of Next.js.
 
 https://vercel.com
+
 https://nextjs.org/docs/deployment
 
 **Future Improvements**
 
-User authentication and personalized dashboards
-Progress tracking and performance analytics
-AI-based vocabulary recommendations
-Improved mobile experience and accessibility
+User authentication and personalized dashboards.
+Progress tracking and performance analytics.
+AI-based vocabulary recommendations.
+Improved mobile experience and accessibility.
 
 **Contact**
 
 If you have any questions, suggestions, or collaboration ideas, feel free to reach out:
 
 Name: Sai Dharahas Thatipamula
+
 Location: Hyderabad, India
+
 Email: saidharahas05@example.com
+
 GitHub: https://github.com/sai-dharahas07
-License
+
+**License**
 
 This project is open-source and available under the MIT License.
