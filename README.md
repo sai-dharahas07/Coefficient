@@ -43,12 +43,17 @@ This project is built using Next.js and bootstrapped with create-next-app.
 Ensure you have the following installed:
 
 Node.js (LTS version)
+
 npm / yarn / pnpm / bun
-Installation
+
+**Installation**
+
 git clone https://github.com/your-username/coefficient.git
 cd coefficient
 npm install
-Running the Development Server
+
+**Running the Development Server**
+
 npm run dev
 or
 yarn dev
@@ -57,8 +62,7 @@ pnpm dev
 or
 bun dev
 
-Open http://localhost:3000
- in your browser to view the application.
+Open http://localhost:3000 in your browser to view the application.
 
 You can start editing the app by modifying app/page.tsx. Changes will reflect instantly.
 
@@ -69,7 +73,8 @@ To learn more about Next.js:
 Next.js Documentation: https://nextjs.org/docs
 Learn Next.js: https://nextjs.org/learn
 Next.js GitHub Repository: https://github.com/vercel/next.js
-Deployment
+
+**Deployment**
 
 The recommended way to deploy this project is using Vercel, the creators of Next.js.
 
