@@ -4,28 +4,28 @@ Coefficient is a modern web application designed to help users learn and retain 
 
 **Overview**
 
-Traditional vocabulary learning often relies on passive memorization, which leads to poor retention. Coefficient introduces an effective learning cycle called the Lexicon Loop:
+Traditional vocabulary learning often relies on passive memorization, which leads to poor retention. Coefficient introduces an effective learning cycle called the Lexicon Loop.
 
-Recognition
-Recall
-Usage
+**Recognition Recall Usage**
 
 This method ensures that users not only understand new words but can confidently use them in practical scenarios.
 
 **Key Features**
 
-Structured daily vocabulary sessions for consistent learning
-Interactive modules including drills, activities, and exploration tools
-Emphasis on contextual and real-world word usage
-Clean, intuitive, and responsive user interface
-Scalable and modular architecture for future enhancements
+Structured daily vocabulary sessions for consistent learning.
+Interactive modules including drills, activities, and exploration tools.
+Emphasis on contextual and real-world word usage.
+Clean, intuitive, and responsive user interface.
+Scalable and modular architecture for future enhancements.
 
 **Tech Stack**
 
 Framework: Next.js
 Language: TypeScript
 Styling: CSS
-Project Structure
+
+**Project Structure**
+
 coefficient/
 │── app/                # Application routes and pages
 │── components/         # Reusable UI components
@@ -48,18 +48,24 @@ npm / yarn / pnpm / bun
 
 **Installation**
 
-git clone https://github.com/your-username/coefficient.git
+git clone https://github.com/sai-dharahas07/coefficient.git
 cd coefficient
 npm install
 
 **Running the Development Server**
 
 npm run dev
+
 or
+
 yarn dev
+
 or
+
 pnpm dev
+
 or
+
 bun dev
 
 Open http://localhost:3000 in your browser to view the application.
