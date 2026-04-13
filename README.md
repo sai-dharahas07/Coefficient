@@ -24,16 +24,6 @@ Framework: Next.js
 Language: TypeScript
 Styling: CSS
 
-**Project Structure**
-
-coefficient/
-│── app/                # Application routes and pages
-│── components/         # Reusable UI components
-│── lib/                # Utility functions and logic
-│── public/             # Static assets
-│── package.json
-│── tsconfig.json
-
 **Getting Started**
 
 This project is built using Next.js and bootstrapped with create-next-app.
