@@ -50,11 +50,11 @@ cd coefficient
 npm install
 Running the Development Server
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
-# or
+or
 bun dev
 
 Open http://localhost:3000
